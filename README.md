@@ -5,7 +5,7 @@
 <h2>Imagenes previas del desafio<h2>
 
 <p>Versión Mobile</p>
-<img src="https://github.com/Franckfer/Mercado-Liebre-TP2-Disenio-Adaptativo/blob/master/public/images/mobile.png">
+<img src="https://github.com/Franckfer/Mercado-Liebre-TP3-Disenio-Adaptativo/blob/master/public/images/mobile.png">
 
 <p>Versión Tablet</p>
 <img src="https://github.com/Franckfer/Mercado-Liebre-TP3-Disenio-Adaptativo/blob/master/public/images/img-preview-tablet.png">
